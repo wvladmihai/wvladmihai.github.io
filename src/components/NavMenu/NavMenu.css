@@ -1,0 +1,69 @@
+nav {
+  display: inline;
+}
+
+.lgMenu {
+  display: inline;
+}
+
+.lgMenu a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.smMenu {
+  display: none;
+}
+
+.smNavMenuContainer {
+  display: none;
+}
+
+@media screen and (max-width: 700px) {
+  .lgMenu {
+    display: none;
+  }
+
+  .smMenu {
+    display: inline;
+  }
+
+  .smMenu a {
+    text-decoration: none;
+  }
+
+  .smNavMenuContainer {
+    display: block;
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 3.75em;
+    transition: 0.5s;
+  }
+
+  .smNavMenuContainer a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+
+  .smNavMenuContainer a:hover {
+    color: #f1f1f1;
+  }
+
+  .smNavMenuContainer .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+}
