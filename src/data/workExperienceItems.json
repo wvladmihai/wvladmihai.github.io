@@ -1,0 +1,43 @@
+[
+  {
+    "from": "2022",
+    "to": "Present",
+    "workplace": "Barclays UK",
+    "roleTitle": "Full stack developer",
+    "listItems": [
+      "Working on a new customer-facing greenfield project",
+      "Engineered a dynamic, schema-driven UI dashboard using TypeScript and React, enabling real-time customization without code changes",
+      "Leveraged React Hook Form for dynamic form generation and validation, and Tanstack React Query for performant async data fetching and intelligent UI caching",
+      "Designed and implemented route-guarding mechanisms in React to prevent unauthorized access",
+      "Ensured accessibility compliance across the UI, improving usability for screen readers and keyboard navigation",
+      "Wrote comprehensive test coverage for React components with Jest and React Testing Library",
+      "Contributed to a hybrid microservices architecture using both on-premise and AWS serverless infrastructure",
+      "Developed and extended API endpoints and core business logic within a Java Spring backend",
+      "Built a Java 17 Micronaut-based AWS Lambda to encapsulate business logic and coordinate with distributed services",
+      "Enhanced an AWS Lambda integration to persist data in DynamoDB with JSON Schema 2020-12 based validation, improving backend data integrity"
+    ]
+  },
+  {
+    "from": "2020",
+    "to": "2022",
+    "workplace": "Barclays UK",
+    "roleTitle": "Graduate programme",
+    "listItems": [
+      "1st Year : BI Developer - helped with the migration of a large scale QlikView dashboard to QlikSense",
+      "2nd Year : UI developer - updated the external Careers Portal using HTML, CSS, JavaScript and jQuery"
+    ]
+  },
+  {
+    "from": "2018",
+    "to": "2019",
+    "workplace": "MediaTek",
+    "roleTitle": "Placement",
+    "listItems": [
+      "Created a tool in C# and WinForms to query a database for statistics",
+      "Built a C# library to support transition from FTP to a 3rd party service",
+      "Implemented clean-up and file deletion for a components-updating tool, based on XML configuration",
+      "Developed a monitoring program which sends dynamically generated (T4 TT) HTML alert emails",
+      "Extended the functionality of the monitoring app to the browser using ASP.NET (MVC), JavaScript"
+    ]
+  }
+]

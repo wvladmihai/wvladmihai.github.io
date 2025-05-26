@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Website CV",
+    "listItems": [
+      "Personal website currently hosted on GitHub",
+      "Developed with React 19 and integrating Tailwind CSS 4 and Shadcn UI"
+    ]
+  },
+  {
+    "title": "BrumHack 6.0 - Game BlobBlob",
+    "periodOfTime": "March 2017",
+    "listItems": [
+      "Developed, within a team of 3, a game in C# and Unity with two blobs cooperating to finish the level"
+    ]
+  },
+  {
+    "title": "Website for the English department of my college",
+    "periodOfTime": "September - November 2015",
+    "website": "http://caragialenglish.byethost32.com/index.html",
+    "listItems": [
+      "Created in HTML and CSS a website that provides information about department activities"
+    ]
+  }
+]
