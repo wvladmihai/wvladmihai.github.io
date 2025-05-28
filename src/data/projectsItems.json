@@ -1,8 +1,10 @@
 [
   {
     "title": "Website CV",
+    "periodOfTime": "May 2025",
+    "website": "https://wvladmihai.github.io/",
     "listItems": [
-      "Personal website currently hosted on GitHub",
+      "Personal website currently hosted on GitHub Pages",
       "Developed with React 19 and integrating Tailwind CSS 4 and Shadcn UI"
     ]
   },
