@@ -4,7 +4,7 @@ import { Button } from "../shadcn-ui/button";
 const DownloadCVButton = () => {
   return (
     <Button asChild>
-      <a href="/CV_VladMihaiVasile2.pdf" download={"CV_VladMihaiVasile.pdf"}>
+      <a href="/CV_VladMihaiVasile.pdf" download={"CV_VladMihaiVasile.pdf"}>
         Download CV
       </a>
     </Button>
