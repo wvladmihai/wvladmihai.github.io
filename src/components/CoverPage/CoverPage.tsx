@@ -23,7 +23,11 @@ const CoverPage = () => {
               </span>
             }{" "}
           </span>
-          <a href="http://www.linkedin.com/in/vladvasile351/" target="_blank">
+          <a
+            href="http://www.linkedin.com/in/vladvasile351/"
+            target="_blank"
+            className="italic"
+          >
             http://www.linkedin.com/in/vladvasile351/
           </a>
         </div>
