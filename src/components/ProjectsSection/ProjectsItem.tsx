@@ -15,7 +15,13 @@ const ProjectsItem = (props: ProjectsItemType) => {
         <span className="font-bold text-lg block">{props.periodOfTime}</span>
       )}
       {props.website && (
-        <span className="italic text-md block">{props.website}</span>
+        <a
+          className="italic text-md block break-words"
+          href={props.website}
+          target="_blank"
+        >
+          {props.website}
+        </a>
       )}
       <div className="mt-2">
         <SectionItemList listItems={props.listItems} />
