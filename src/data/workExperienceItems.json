@@ -5,16 +5,19 @@
     "workplace": "Barclays UK",
     "roleTitle": "Full stack developer",
     "listItems": [
-      "Working on a new customer-facing greenfield project",
-      "Engineered a dynamic, schema-driven UI dashboard using TypeScript and React, enabling real-time customization without code changes",
-      "Leveraged React Hook Form for dynamic form generation and validation, and Tanstack React Query for performant async data fetching and intelligent UI caching",
-      "Designed and implemented route-guarding mechanisms in React to prevent unauthorized access",
-      "Ensured accessibility compliance across the UI, improving usability for screen readers and keyboard navigation",
-      "Wrote comprehensive test coverage for React components with Jest and React Testing Library",
+      "Working on a greenfield, customer-facing product for financial clients",
+      "Designed and built a dynamic, schema-driven UI dashboard using TypeScript and React, enabling real-time customisation without code changes",
+      "Leveraged React Hook Form for dynamic form generation and validation and Tanstack React Query for performant async data fetching and intelligent UI caching",
+      "Designed and implemented route-guarding and role-based access control to secure sensitive app routes and to prevent unauthorised access",
+      "Ensured accessibility compliance by adhering to WCAG 2.1 standards, including semantic HTML, ARIA roles, keyboard support and screen reader compatibility",
+      "Built comprehensive unit and integration tests using Jest, React Testing Library, Mock Service Worker and Playwright, ensuring high test coverage and reducing regression risk",
       "Contributed to a hybrid microservices architecture using both on-premise and AWS serverless infrastructure",
-      "Developed and extended API endpoints and core business logic within a Java Spring backend",
-      "Built a Java 17 Micronaut-based AWS Lambda to encapsulate business logic and coordinate with distributed services",
-      "Enhanced an AWS Lambda integration to persist data in DynamoDB with JSON Schema 2020-12 based validation, improving backend data integrity"
+      "Built event-driven services using AWS MSK Kafka, publishing domain events to support decoupled interactions between microservices",
+      "Developed and extended RESTful API endpoints and core business logic within a Java Spring backend service",
+      "Built a Java 17 Micronaut AWS Lambda to expose RESTful API endpoints and to encapsulate business logic and coordinate with distributed services",
+      "Enhanced an AWS Lambda to persist data in DynamoDB with JSON Schema 2020-12 based validation, improving backend data integrity",
+      "Implemented resilient backend logic with parallel and retryable service calls to improve fault tolerance and ensure reliability in distributed workflows",
+      "Maintained and authored Swagger/OpenAPI documentation to support API clarity and effective collaboration between services users"
     ]
   },
   {
@@ -23,8 +26,8 @@
     "workplace": "Barclays UK",
     "roleTitle": "Graduate programme",
     "listItems": [
-      "1st Year : BI Developer - helped with the migration of a large scale QlikView dashboard to QlikSense",
-      "2nd Year : UI developer - updated the external Careers Portal using HTML, CSS, JavaScript and jQuery"
+      "1st Year : BI Developer - Supported QlikView to Qlik Sense migration for internal reporting",
+      "2nd Year : UI developer - Maintained and updated the external Careers Portal using HTML, CSS, JavaScript and jQuery"
     ]
   },
   {
